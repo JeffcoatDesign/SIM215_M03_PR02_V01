@@ -1,0 +1,28 @@
+{
+	"sceneList" : [
+		[
+			"entrance",
+			"Scene_1"
+		],
+		[
+			"stairs",
+			"Scene_2"
+		],
+		[
+			"hall1",
+			"Scene_3"
+		],
+		[
+			"hall2",
+			"Scene_4"
+		],
+		[
+			"hall3",
+			"Scene_5"
+		],
+		[
+			"creds",
+			"Scene_6"
+		]
+	]
+}
